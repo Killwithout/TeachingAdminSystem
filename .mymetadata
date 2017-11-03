@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TeachingAdminSystem"
+  id="myeclipse.1493169201798"
+  context-root="/TeachingAdminSystem"
+  j2ee-spec="5.0"
+  archive="TeachingAdminSystem.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
